@@ -1,0 +1,22 @@
+{
+    "members": [
+        {
+            "cardId": "1",
+            "lastname": "Doyle",
+            "firstName": "Terry",
+            "email": "tjdoyle47@optusnet.com.au",
+            "phoneNo": "(03) 9729 4910",
+            "mobileNo": "0435 317 207",
+            "identifier": "R"
+        },
+        {
+            "cardId": "2",
+            "lastname": "Hall",
+            "firstName": "Russell",
+            "email": "rustyhall05@gmail.com",
+            "phoneNo": "(03) 9870 5949",
+            "mobileNo": "0413 654 897",
+            "identifier": "R"
+        }
+    ]
+}
